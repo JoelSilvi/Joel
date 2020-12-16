@@ -14,3 +14,10 @@ p{
     text-align: center;
     font-family: 'Exo', sans-serif;
 }
+
+h6{
+    border: solid 5px black;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
