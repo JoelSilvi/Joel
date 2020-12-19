@@ -21,3 +21,7 @@ h6{
     color: white;
     background-color: black;
 }
+
+video{
+    border: 3px double #fb5607;
+}
