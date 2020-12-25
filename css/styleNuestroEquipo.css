@@ -1,15 +1,23 @@
-h1{
-    text-align: center;
-}
 
 p{
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
 }
 
+
+h3{
+    color: #36A0FF ;
+    text-align: center;
+    border-radius: 1.5em;
+    background-color: white;
+
+}
+
+
 h6{
     border: solid 5px black;
     text-align: center;
     color: white;
     background-color: black;
+    border-radius: 1.5em;
 }

@@ -1,9 +1,8 @@
 h3{
-    color: green;
-    background-color: blue;
-    border: solid 5px black;
+    color: #fb5607 ;
     text-align: center;
-    color: white;
+    border-radius: 1.5em;
+    background-color: white;
 
 }
 
@@ -13,4 +12,5 @@ h6{
     text-align: center;
     color: white;
     background-color: black;
+    border-radius: 1.5em;
 }
