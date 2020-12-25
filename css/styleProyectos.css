@@ -1,4 +1,11 @@
+h3{
+    color: green;
+    background-color: blue;
+    border: solid 5px black;
+    text-align: center;
+    color: white;
 
+}
 
 
 h6{
@@ -7,4 +14,3 @@ h6{
     color: white;
     background-color: black;
 }
-

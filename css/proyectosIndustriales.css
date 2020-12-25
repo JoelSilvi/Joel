@@ -1,0 +1,16 @@
+h3{
+    color: green;
+    background-color: blue;
+    border: solid 5px black;
+    text-align: center;
+    color: white;
+
+}
+
+
+h6{
+    border: solid 5px black;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
