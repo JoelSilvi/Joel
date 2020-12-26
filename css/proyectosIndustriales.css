@@ -1,16 +1,19 @@
-h4{
-    color: #fb5607 ;
-    text-align: center;
-    border-radius: 1.5em;
-    background-color: white;
-
-}
-
-
 h6{
     border: solid 5px black;
     text-align: center;
     color: white;
     background-color: black;
+    border-radius: 1em;
+}
+
+span{
+    color: white;
+}
+
+
+h4{
+    color: #36A0FF ;
+    text-align: center;
     border-radius: 1.5em;
+    background-color: white;
 }
