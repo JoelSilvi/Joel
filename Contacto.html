@@ -99,11 +99,18 @@
 
 <br>
 
+
+<!-- Expresiones regulares
+- Nombre: ^[A-Za-zÑñÁáÉéÍíÓóÚúÜü\s]+$
+- Correo: ^[a-z0-9]+(\.[_a-z0-9]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,15})$
+- Comentarios: ^.{1,255}$ -->
+
 <div class="container-md">
     <div class="row">
         <div class="col-md-12">
             <div class="well well-sm">
-                <form class="form-horizontal" name="formulario" action = "https://formsubmit.co/analistasilvi@gmail.com" method = "POST">
+                <form class="form-horizontal" name="formulario" action = "https://formsubmit.co/jaguilar@ggl.cl" method = "POST">
+                    
                     <fieldset>
                         <legend class="text-center header">Formulario de Contacto</legend>
                         <div class="img-align"><img src="images/logoClaro.jpg" alt="logo"></div><br>
@@ -129,16 +136,22 @@
                         <div class="form-group">
                             <div class="col-md-12">
                                 <textarea class="form-control" name="message" title="tu comentario no debe exceder los 255 caracteres" data-pattern="^.{1,255}$" required placeholder="Escríbanos, nos comunicaremos con usted lo antes posible." rows="7" required=""></textarea>
+
                             </div>
                         </div>
                         <br>
                         <div class="form-group">
                             <div class="col-md-12 text-center">
                                 <button type="submit"" class="btn btn-primary btn-lg">Enviar</button>
+                                <input type = "hidden" name = "_next" value = "http://127.0.0.1:5500/gracias.html">                                
                             </div>
                         </div>
+                        
+
                     </fieldset>
                 </form>
+                
+
             </div>
         </div>
     </div>
