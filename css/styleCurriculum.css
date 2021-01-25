@@ -1,9 +1,13 @@
 h3{
-    color:#36A0FF ;
+    color: white ;
     text-align: center;
     border-radius: 1.5em;
-    background-color: white;
+    background-color: black;
+    padding: .2em;
+}
 
+.class-bg{
+    background-color: #fb5607 ;
 }
 
 
