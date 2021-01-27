@@ -16,4 +16,10 @@ h6{
     color: white;
     background-color: black;
     border-radius: 1.5em;
+    justify-content: center;
 }
+
+.bordeado{
+    border: #fb5607 1px dotted;
+}
+

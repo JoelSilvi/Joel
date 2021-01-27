@@ -24,3 +24,7 @@ h6{
     background-color: black;
     border-radius: 1.5em;
 }
+
+.bordeado{
+    border: #fb5607 1px dotted;
+}

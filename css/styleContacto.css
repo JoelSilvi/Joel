@@ -119,3 +119,8 @@
         opacity: 1;
       }
     } */
+
+
+    .bordeado{
+      border: #fb5607 1px dotted;
+  }
