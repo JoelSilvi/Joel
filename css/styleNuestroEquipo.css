@@ -29,3 +29,8 @@ h6{
 .bordeado{
     border: #fb5607 1px dotted;
 }
+
+.sombra{
+    /* box-shadow: 10px 5px 5px black; */
+    box-shadow: 10px 10px 15px black;
+}
