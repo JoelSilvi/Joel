@@ -124,3 +124,8 @@
     .bordeado{
       border: #fb5607 1px dotted;
   }
+
+  .naranja{
+    background-color: #fb5607;
+    color: white;
+}
