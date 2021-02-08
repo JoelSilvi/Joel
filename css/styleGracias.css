@@ -34,7 +34,7 @@ h6{
     border-radius: 1.5em;
 }
 
-.sombra{
+.sombraImagen{
     /* box-shadow: 10px 5px 5px black; */
     box-shadow: 10px 10px 15px black;
     border-radius: .5em;
@@ -43,5 +43,9 @@ h6{
 .inferior{
     margin-top: 10%;
     padding: 1em 1em 1em 1em;
+}
+
+.sombra{
+    box-shadow: 10px 10px 15px black;
 }
 
