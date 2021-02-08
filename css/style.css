@@ -71,11 +71,11 @@ video{
 }
 
 .menu:hover{
-    border-radius: 50%;
+    border-radius: 1em;
     background-color: #fb5607;
     color: white;
-    font-size: 1vw;
     border: 2px solid white;
+    padding: 0 1em 0 1em;
 }
 
 
