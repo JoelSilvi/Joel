@@ -11,6 +11,7 @@ h5{
     padding: 1em 0 1em 0;
     border-radius: 1em;
     box-shadow: 10px 10px 15px black;
+    margin: 1% 0 2% 0;
 
 }
 
@@ -41,8 +42,7 @@ h6{
 }
 
 .inferior{
-    margin-top: 10%;
-    padding: 1em 1em 1em 1em;
+    margin-top: 2%;
 }
 
 .sombra{
