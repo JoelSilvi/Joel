@@ -39,10 +39,10 @@ h6{
 }
 
 .menu:hover{
-    border-radius: 1em;
     background-color: #fb5607;
     color: white;
-    border: 2px solid white;
-    padding: 0 1em 0 1em;
+    border-radius: 1em;
+    text-align: center;
+    padding: 0 2em 0 2em;
 }
 
