@@ -43,21 +43,16 @@ h1{
     box-shadow: 10px 10px 15px black;
 }
 
-
+/* 
 .naranja:hover{
     background-color: coral;
     color: white;
-}
+} */
 
 .sombra{
     box-shadow: 10px 10px 15px black;
 }
 
-
-.menu:hover{
-    background-color: #fb5607;
-    color: white;
-    border-radius: 1em;
-    text-align: center;
-    padding: 0 2em 0 2em;
+#menu:hover{
+    color: #fb5607;
 }

@@ -29,21 +29,16 @@ h6{
     border: #fb5607 1px dotted;
 }
 
-.sombra-imagen{
-    /* box-shadow: 10px 5px 5px black; */
-    box-shadow: 10px 10px 15px black;
-    margin-bottom: 5%;
-}
-
-.sombra{
-    box-shadow: 10px 10px 15px black;
-}
-
-
-.menu:hover{
+/* .naranja{
     background-color: #fb5607;
     color: white;
-    border-radius: 1em;
-    text-align: center;
-    padding: 0 2em 0 2em;
+    box-shadow: 10px 10px 15px black;
+} */
+
+.sombra{
+    box-shadow: 10px 10px 12px black;
+}
+
+#menu:hover{
+    color: #fb5607;
 }

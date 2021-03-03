@@ -26,7 +26,7 @@ h6{
 .naranja{
     background-color: #fb5607;
     color: white;
-    box-shadow: 10px 10px 15px black;
+    box-shadow: 10px 10px 12px black;
 }
 
 .naranja:hover{
@@ -35,14 +35,10 @@ h6{
 }
 
 .sombra{
-    box-shadow: 10px 10px 15px black;
+    box-shadow: 10px 10px 12px black;
 }
 
-.menu:hover{
-    background-color: #fb5607;
-    color: white;
-    border-radius: 1em;
-    text-align: center;
-    padding: 0 2em 0 2em;
+#menu:hover{
+    color: #fb5607;
 }
 
